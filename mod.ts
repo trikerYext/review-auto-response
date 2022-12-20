@@ -27,7 +27,7 @@ export async function reviewAutoRespond(webhook: any) {
         // Check Rating meets user-supplied threshhold
         if ( webhook_payload.review.rating >= Number(MIN_RATING) ) {
             // Exit if review has content and user doesn't want to respond to reviews with content
-            if ( webhook_payload.review.content != '' && RESPOND_TO_CONTENT === 'No') {
+            if ( webhook_payload.review.content != '' && RESPOND_TO_CONTENT == 'No') {
                 return
             }
             else {

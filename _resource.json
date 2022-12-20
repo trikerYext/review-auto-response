@@ -1,7 +1,4 @@
 {
     "$id": "reviewAutoResponse",
-    "$schema": "https://schema.yext.com/config/platform/plugin/v1",
-    "globals": {
-        "API_KEY": "abcd123"
-    }
+    "$schema": "https://schema.yext.com/config/platform/plugin/v1"
 }
