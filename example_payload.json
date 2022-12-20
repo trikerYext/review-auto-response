@@ -1,0 +1,31 @@
+{
+    "review": {
+        "id": 1283028264,
+        "rating": 5.0,
+        "content": "",
+        "authorName": "Teddy R",
+        "authorEmail": "triker@yext.com",
+        "url": "",
+        "publisherDate": 1671461293317,
+        "entityId": "5080823025686357379",
+        "accountId": "3657142",
+        "publisherId": "FIRSTPARTY",
+        "lastYextUpdateTime": 1671461293317,
+        "comments": [],
+        "status": "QUARANTINED",
+        "reviewLabels": [
+            {
+                "id": 7309,
+                "name": "Awaiting Response"
+            }
+        ],
+        "flagStatus": "NOT_FLAGGED"
+    },
+    "meta": {
+        "uuid": "5e8bd90b-4ea8-4fa0-a7d3-52edd5397b13",
+        "timestamp": 1671461293317,
+        "accountId": "3657142",
+        "appSpecificAccountId": "75a7bbb6f5e4d7a5a795180f81482bd5b15c8b11",
+        "eventType": "REVIEW_CREATED"
+    }
+}
