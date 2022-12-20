@@ -1,14 +1,14 @@
 import { ReviewWebhook } from './ReviewWebhook.ts'
 
 declare const BASE_URI = 'https://api.yext.com/v2/accounts/me/reviews/'
-//const RESPONSE = "${{response}}";
-const RESPONSE = "Thanks for your review - Automated Response";
-//const API_KEY = "${{reviewsApiKey}}";
-const API_KEY = "5664c5d1c35ceb387f41f63d028a6b8f";
-//const MIN_RATING = "${{minimumRating}}";
-const MIN_RATING = "5";
-//const RESPOND_TO_CONTENT = "${{respondToReviewsWithContent}}";
-const RESPOND_TO_CONTENT = "No";
+const RESPONSE = "${{response}}";
+//const RESPONSE = "Thanks for your review - Automated Response";
+const API_KEY = "${{reviewsApiKey}}";
+//const API_KEY = "5664c5d1c35ceb387f41f63d028a6b8f";
+const MIN_RATING = "${{minimumRating}}";
+//const MIN_RATING = "5";
+const RESPOND_TO_CONTENT = "${{respondToReviewsWithContent}}";
+//const RESPOND_TO_CONTENT = "No";
 
 
 
